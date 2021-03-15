@@ -1,10 +1,12 @@
 # clean_db
 
 BEFORE STARTING
-Here is my first script posted on github. This project was built in my very first month of learning code. Will come better version of this script on june. Feel free to comment.
+
+	Here is my first script posted on github. This project was built in my very first month of learning code. Will come better version of this script on june. 	Feel free to comment.
 
 WHAT THE SCRIPT DOES
-Directly from the script interface, you can clean your googlesheet’s databases. The script completly ignore Camel Case thanks to RegExp.
+
+	Directly from the script interface, you can clean your googlesheet’s databases. The script completly ignore Camel Case thanks to RegExp.
  
 SETUP
   1. CREATE YOUR ENV
@@ -13,7 +15,8 @@ SETUP
     https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-ubuntu-18-04/
 
   2. INSTALL PIP MODULE FROM REQUIREMENT.TXT
-	  pip install -r requirements.txt
+
+	pip install -r requirements.txt
 
   3. CONNECT WITH GOOGLE API
 
