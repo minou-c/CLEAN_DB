@@ -1,6 +1,7 @@
 # clean_db
 
 INFOS
+
 	- Langage : Python
 	- Version : 3.7.3
 	- Modules : PySide2, gspread, autoPEP8, oauth2client
