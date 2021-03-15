@@ -16,7 +16,7 @@ BEFORE STARTING
 WHAT THE SCRIPT DOES
 
 	- Directly from the script interface, you can clean your googlesheet’s databases. 
-	- The script completly ignore Camel Case thanks to RegExp.
+	- The script completly case insensitive thanks to RegExp.
  
 SETUP
   1. CREATE YOUR ENV
